@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+}
+.register-div {
+    float: left;
+    width: 100%;
+    background-color: aquamarine;
+    
+}
+.register-div h1{
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    color: gray;
+}
+.register-div label{
+    float:left;
+    width: 30%;
+    font-size: 40px;
+    color: gold;
+    text-align: center;
+    margin: 1% 5% 1% 15%;
+}
+.register-div input{
+    float:left;
+    width: 45%;
+    font-size: 40px;
+    text-align: center;
+    margin: 1% 3% 1% 1%;
+}
+#reg_btn{
+    float:left;
+    width: 30%;
+    font-size: 40px;
+    margin: 4% 3% 2% 40%;   
+}
